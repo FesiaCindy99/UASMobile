@@ -3,3 +3,4 @@ This project was create to fullfill my final mobile learning implementing Fireba
 
 Aplikasi ini berbasis android
 
+menggunakan netbeans
